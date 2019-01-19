@@ -2,9 +2,9 @@
 *.class
 
 # Build and dist dirs
-dist/
-build/
-nbproject/
+dist/*
+build/*
+nbproject/*
 
 # Log file
 *.log
